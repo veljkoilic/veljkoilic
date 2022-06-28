@@ -18,14 +18,14 @@ My name is Veljko Ilic. I am a freelance frontend developer living in Belgrade, 
 </p>
 <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=veljkoilic&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php">
 
-## 👀  What I am currently learning / improving on
+## 👀  Learning || Improving
 
 <p float=left>
 <img src="https://img.shields.io/badge/-ReactJs-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React Native" height="25" />
 <img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=764ABC" alt="Redux logo" title="Redux" height="25" />
 </p>
 
-## 🚀  What I am interested in learning at some point
+## 🚀  What I am interested in learning in the future
 
 <p float=left>
   <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
