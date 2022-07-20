@@ -1,6 +1,3 @@
-<img src="https://thumbs.gfycat.com/GleefulGiftedJackal.webp"/>
-
-
 # Hello! 👾
 My name is Veljko Ilic. I am a freelance frontend developer living in Belgrade, Serbia. 
 
